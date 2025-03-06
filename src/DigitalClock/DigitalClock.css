@@ -1,0 +1,37 @@
+
+.clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #c4a1ad;
+}
+
+.clock-card {
+    background-color: white;
+    padding: 40px 50px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.clock-title {
+    font-size: 24px;
+    font-weight: normal;
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.pink {
+    color: #d81b60;
+}
+
+.clock-time {
+    font-size: 48px;
+    font-weight: bold;
+    color: #d81b60;
+    margin-top: 10px;
+}

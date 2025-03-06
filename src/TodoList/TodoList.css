@@ -1,0 +1,90 @@
+body {
+    background-color: #91476d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.todo-container {
+    background: #c289ad;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    width: 320px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+    color: black;
+}
+
+.input-container {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    background: black;
+    color: white;
+}
+
+.add-btn {
+    background: hotpink;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #e6c5d6;
+    margin: 5px 0;
+    padding: 12px;
+    border-radius: 8px;
+    color: #1a1a1a;
+}
+
+.completed span {
+    text-decoration: line-through;
+    color: red;
+}
+
+button {
+    border: none;
+    padding: 6px 10px;
+    margin-left: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.complete-btn {
+    background: blue;
+    color: white;
+}
+
+.resume-btn {
+    background: darkblue;
+    color: white;
+}
+
+.delete-btn {
+    background: hotpink;
+    color: white;
+}
