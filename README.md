@@ -23,23 +23,23 @@ Vite : comme bundler pour un démarrage rapide et une expérience fluide.
 
 Voici l'interface de la calculatrice :
 
-![Calculatrice](public/assets/Calculatrice.png)
+![Calculatrice](src/assets/Calculatrice.png)
 
 ## Chronomètre
 
 Voici l'interface du chronomètre :
 
-![Chronomètre](public/assets/Chrono.png)
+![Chronomètre](src/assets/Chrono.png)
 
 ## Todo List
 
 Voici l'interface de la Todo List :
 
-![Todo List](public/assets/Todolist.png)
+![Todo List](src/assets/Todolist.png)
 
 ## Formulaire
 
 Voici l'interface du formulaire :
 
-![Formulaire](public/assets/Formulaire.png)
+![Formulaire](src/assets/Formulaire.png)
 .
