@@ -11,7 +11,7 @@ Clonez ce dépôt sur votre machine locale.
 Accédez au répertoire du projet.
 Installez les dépendances avec npm install.
 Lancez l'application avec npm start.
-Cela ouvrira l'application dans votre navigateur à l'adresse http://localhost:3000.
+Cela ouvrira l'application dans votre navigateur à l'adresse http://http://localhost:5176.
 
 Technologies utilisées
 React : pour la création de l'interface utilisateur.
