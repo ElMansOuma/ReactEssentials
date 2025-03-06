@@ -1,12 +1,19 @@
-# React + Vite
+ReactEssentials
+ReactEssentials est une application React moderne qui regroupe plusieurs outils utiles dans une seule interface. Ce projet propose des modules interactifs tels que des formulaires, une horloge numérique, une calculatrice et une liste de tâches pour une meilleure gestion des actions quotidiennes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fonctionnalités
+Formulaire : Un formulaire interactif permettant de saisir des informations personnelles.
+Horloge numérique : Affiche l'heure en temps réel de manière élégante.
+Calculatrice : Une calculatrice simple pour effectuer des calculs rapides.
+Todo List : Une liste de tâches pour suivre les actions à accomplir.
+Installation
+Clonez ce dépôt sur votre machine locale.
+Accédez au répertoire du projet.
+Installez les dépendances avec npm install.
+Lancez l'application avec npm start.
+Cela ouvrira l'application dans votre navigateur à l'adresse http://localhost:3000.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies utilisées
+React : pour la création de l'interface utilisateur.
+React Router : pour gérer la navigation entre les différentes pages de l'application.
+Vite : comme bundler pour un démarrage rapide et une expérience fluide.
